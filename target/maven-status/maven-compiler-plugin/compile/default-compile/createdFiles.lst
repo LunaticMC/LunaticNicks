@@ -1,0 +1,14 @@
+xyz/poulton/lunaticnicks/api/Debug.class
+xyz/poulton/lunaticnicks/bungee/ConfigHandler.class
+xyz/poulton/lunaticnicks/api/message/RequestMessage.class
+xyz/poulton/lunaticnicks/api/message/MessageHandler.class
+xyz/poulton/lunaticnicks/api/message/UpdateMessage.class
+xyz/poulton/lunaticnicks/bungee/LunaticNicksBungee.class
+xyz/poulton/lunaticnicks/spigot/LunaticNicksSpigot.class
+xyz/poulton/lunaticnicks/spigot/SpigotMessageResponder.class
+xyz/poulton/lunaticnicks/api/message/MessageResponder.class
+xyz/poulton/lunaticnicks/api/message/MessageType.class
+xyz/poulton/lunaticnicks/spigot/LunaticNicksPapi.class
+xyz/poulton/lunaticnicks/api/db/DatabaseConnector.class
+xyz/poulton/lunaticnicks/bungee/BungeeMessageResponder.class
+xyz/poulton/lunaticnicks/bungee/command/NickCommand.class

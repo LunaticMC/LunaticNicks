@@ -1,0 +1,8 @@
+name: LunaticNicks
+version: 1.0-SNAPSHOT
+main: xyz.poulton.lunaticnicks.spigot.LunaticNicksSpigot
+api-version: 1.16
+authors: [__lucyy]
+description: Proxy-wide nicknames supporting RGB
+depend: [PlaceholderAPI]
+
